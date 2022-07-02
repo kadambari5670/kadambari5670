@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kadambari Karanjekar</h>
+<h1 align="center">Hi 👋, I'm Kadambari Karanjekar</h1>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
