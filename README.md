@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kadambari Karanjekar</h1>
-
-- 🔭 I’m currently working on **JS**
+<h1 align="center">Hi 👋, I'm Kadambari Karanjekar</h>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
